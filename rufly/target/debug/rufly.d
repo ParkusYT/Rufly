@@ -1,1 +1,1 @@
-/home/pit/Documents/Dev/Rufly/rufly/target/debug/rufly: /home/pit/Documents/Dev/Rufly/rufly/src/main.rs
+/home/pit/Documents/Dev/Rufly/rufly/target/debug/rufly: /home/pit/Documents/Dev/Rufly/rufly/src/app.rs /home/pit/Documents/Dev/Rufly/rufly/src/main.rs /home/pit/Documents/Dev/Rufly/rufly/src/ui/mod.rs /home/pit/Documents/Dev/Rufly/rufly/src/ui/window.rs
