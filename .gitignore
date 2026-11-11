@@ -1,0 +1,54 @@
+
+# Rust build artifacts
+/target/
+**/*.rs.bk
+*.rlib
+*.rmeta
+
+# Cargo
+Cargo.lock
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Rust Analyzer
+rust-project.json
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Debugging and profiling
+*.profraw
+*.profdata
+core
+core.*
+
+# Linux build artifacts
+*.o
+*.so
+*.a
+
+# GTK / GNOME
+*.gresource
+*.typelib
+*.gir
+
+# Desktop environments
+.directory
+.Trash-*
+*.desktop~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
